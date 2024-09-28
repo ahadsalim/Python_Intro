@@ -1,3 +1,3 @@
 # Python_Intro
-My codes in python
-These files are my practice code for Maktabkhoone course : دوره مقدماتی آموزش پایتون با جادی
+My python codes
+These files are my practices code for Maktabkhoone course : دوره مقدماتی آموزش پایتون با جادی
